@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohamed Belfilali
-### AI & Machine Learning Engineer · Building intelligent systems, one agent at a time
+### AI & Data Science · Building intelligent systems, one agent at a time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mbelfilali-05](https://www.linkedin.com/in/mohamed-belfilali-mimoun-0a19252a5/))
 <a href="mailto:mbelfilali14@gmail.com">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm an AI & ML engineering student based in Morocco, passionate about building systems that go beyond model training — from **intelligent agent pipelines** to **end-to-end NLP workflows**.
+I'm an AI & DataScience engineering student based in Morocco, passionate about building systems that go beyond model training — from **intelligent agent pipelines** to **end-to-end NLP workflows**.
 
 My work sits at the intersection of **LLM engineering**, **multi-agent orchestration**, and **applied machine learning**. I care about the full stack: clean architecture, solid theoretical grounding, and results that hold up in practice.
 
